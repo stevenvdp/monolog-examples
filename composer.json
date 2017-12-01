@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "^1.23",
+        "bramus/monolog-colored-line-formatter": "~2.0"
+    }
+}
